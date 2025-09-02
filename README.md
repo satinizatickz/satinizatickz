@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Satini Zatickz
 
-I'm a software developer, AI enthusiast, and proud recipient of the **Power Land Project** initiative. I focus on building smart solutions using AI tools, web development, and automation.
+I'm a software developer, AI enthusiast, and proud recipient of the **Power Learn Project** initiative. I focus on building smart solutions using AI tools, web development, and automation.
 
 ---
 
